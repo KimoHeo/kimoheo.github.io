@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Menu1 Child1
-parent: Menu1
+title: Child1
+parent: Python numpy & pandas
 nav_order: 1
 ---
 
