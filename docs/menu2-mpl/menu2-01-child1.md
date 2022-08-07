@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Menu2 Child1
-parent: Menu2
+title: Child1
+parent: Python matplotlib
 nav_order: 1
 ---
