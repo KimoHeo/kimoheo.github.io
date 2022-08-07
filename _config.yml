@@ -105,7 +105,8 @@ color_scheme: nil
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-2709176-10
+#ga_tracking: UA-2709176-10
+ga_tracking: G-5Y6P8GQ565
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
@@ -127,9 +128,9 @@ compress_html:
   #   envs: all
 
 # Analytics
-analytics:
-  provider               : "google-gtag" 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "G-5Y6P8GQ565"
-    anonymize_ip         : # true, false (default)
+#analytics:
+#  provider               : "google-gtag" 
+#                          # false (default), "google", "google-universal", "google-gtag", "custom"
+#  google:
+#    tracking_id          : "G-5Y6P8GQ565"
+#    anonymize_ip         : # true, false (default)
