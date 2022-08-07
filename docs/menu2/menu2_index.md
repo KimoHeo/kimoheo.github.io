@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Menu2
-nav_order: 3
+nav_order: 4
 has_childeren: true
 permalink: "/docs/menu2"
 ---
