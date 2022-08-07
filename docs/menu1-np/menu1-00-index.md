@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Menu1
+title: Python numpy & pandas
 nav_order: 2
 has_children: true
 ---
