@@ -8,4 +8,4 @@ permalink: "/"
 
 # Welcome to Komo's blog
 
-This site provides ...
+This sites provides computational data anlyasis & visualization methods for scientific researchers based on Python codes.
