@@ -10,4 +10,3 @@ permalink: "/til"
 
 This page contains all kinds of uncategorized contents for Python & Github.
 
-TIL page test
