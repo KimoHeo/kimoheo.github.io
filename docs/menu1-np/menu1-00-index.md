@@ -3,6 +3,7 @@ layout: default
 title: Menu1
 nav_order: 2
 permalink: "/menu1"
+has_children: true
 ---
 
 # Menu 1
