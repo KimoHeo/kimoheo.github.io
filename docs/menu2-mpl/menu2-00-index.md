@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Menu2
+title: Python matplotlib
 nav_order: 3
 has_children: true
 ---
