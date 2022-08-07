@@ -5,6 +5,6 @@ nav_order: 3
 has_children: true
 ---
 
-# Menu 2
+# Menu 3
 
-Menu 2 page test
+Menu 3 page test
