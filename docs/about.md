@@ -6,8 +6,6 @@ permalink: "/about"
 ---
 
 # About Kimo
-
-Ph.D in Electrical Engineering (2018)
-
-B.S. in Electrical Engineering (2013)
+* Ph.D in Electrical Engineering (2018)
+* B.S. in Electrical Engineering (2013)
 
