@@ -6,4 +6,6 @@ description: "description"
 permalink: "/"
 ---
 
-# Welcome
+# Welcome to Komo's blog
+
+This site provides ...
